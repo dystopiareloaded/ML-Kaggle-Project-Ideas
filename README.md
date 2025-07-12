@@ -109,9 +109,9 @@ Here is the fully updated, corrected, and **triple-verified** list.
 *   **Why it's great for ML:** A business-focused dataset to segment customers. It's great for comparing different clustering algorithms.
 *   **Sample Project Idea:** Segment wholesale clients based on their annual spending on diverse product categories.
 
-**24. [Country Data for Clustering](https://www.kaggle.com/datasets/sujaljetson/country-data-for-clustering)**
-*   **Why it's great for ML:** A dataset containing health, economic, and development metrics specifically prepared for clustering. Perfect for practicing K-Means and Hierarchical Clustering.
-*   **Sample Project Idea:** Group countries into categories (e.g., 'under-developed', 'developing', 'developed') using clustering.
+**24. [Country Statistics - Health, Economy, Population](https://www.kaggle.com/datasets/fernandol/countries-of-the-world)**
+*   **Why it's great for ML:** A classic, stable dataset featuring health, economic, and population statistics across countries. Excellent for clustering, dimensionality reduction, and exploratory data analysis.
+*   **Sample Project Idea:** Group countries based on socio-economic indicators into clusters like 'under-developed', 'developing', and 'developed'.
 
 ---
 ### Category: Natural Language Processing (NLP)
