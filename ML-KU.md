@@ -6,11 +6,11 @@
 
 ### 🔍 Advanced Clustering Methods (K-means, BIRCH, DBSCAN, EM)
 
-1. [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial) - K-means clustering on mall shoppers.
-2. [Wholesale Customers Data](https://www.kaggle.com/datasets/uciml/wholesale-customers-data) - Market segmentation using unsupervised techniques.
+1. [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) - K-means clustering on mall shoppers.
+2. [Wholesale Customers Data](https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set) - Market segmentation using unsupervised techniques.
 3. [Spotify Song Features](https://www.kaggle.com/datasets/leonardopena/top50spotify2019) - Cluster songs using audio features.
 4. [CC General Dataset](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata) - DBSCAN and hierarchical clustering on credit card behavior.
-5. [Online Retail Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail) - Cluster customers for targeted marketing (EM, RFM).
+5. [Online Retail Dataset](https://www.kaggle.com/datasets/hellbuoy/online-retail-customer-clustering) - Cluster customers for targeted marketing (EM, RFM).
 
 ### 🧪 Cluster Evaluation & Ensemble
 
