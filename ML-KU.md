@@ -14,9 +14,9 @@
 
 ### 🧪 Cluster Evaluation & Ensemble
 
-6. [Country Clustering Dataset](https://www.kaggle.com/datasets/rohitrox/country-data) - Compare internal/external validation metrics.
-7. [Seeds Dataset](https://www.kaggle.com/datasets/muratkokludataset/seeds-dataset) - Cluster types of wheat seeds using BIRCH and silhouette score.
-8. [Airlines Customer Segmentation](https://www.kaggle.com/datasets/arvindnagaonkar/airlines-customer-dataset) - Evaluate clustering ensemble methods.
+6. [Country Clustering Dataset](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data) - Compare internal/external validation metrics.
+7. [Seeds Dataset](https://www.kaggle.com/datasets/rwzhang/seeds-dataset) - Cluster types of wheat seeds using BIRCH and silhouette score.
+8. [Airlines Customer Segmentation](https://www.kaggle.com/datasets/singhnproud77/eastwestairlines-heirarchical-clustering) - Evaluate clustering ensemble methods.
 
 ---
 
@@ -40,7 +40,7 @@
 ## 📌 Model Evaluation Techniques
 
 16. [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) - Evaluate Precision, Recall, F1 Score.
-17. [Fake News Dataset](https://www.kaggle.com/c/fake-news/data) - Binary classification with ROC and AUC evaluation.
+17. [Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) - Binary classification with ROC and AUC evaluation.
 18. [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) - Validate bias-variance and model selection.
 19. [Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) - Show impact of under/overfitting.
 20. [Diabetes Prediction](https://www.kaggle.com/datasets/mathchi/diabetes-data-set) - Cross-validation and overfitting analysis.
@@ -71,7 +71,7 @@
 
 31. [Weather Dataset](https://www.kaggle.com/datasets/muthuj7/weather-dataset) - Model using Hidden Markov Models.
 32. [Bitcoin Price Prediction](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) - Use Markov Chains for forecasting.
-33. [Election Tweets Dataset](https://www.kaggle.com/datasets/kapastor/election-2020-tweets) - Topic modeling using belief propagation.
+33. [2024 U.S. Election Sentiment on X](https://www.kaggle.com/datasets/emirhanai/2024-u-s-election-sentiment-on-x) – Contains sentiment-labeled tweet data around the 2024 U.S. presidential contest, covering major candidates and discussion trends. Suitable for modeling discourse dynamics over time.  
 34. [YouTube Trending Videos](https://www.kaggle.com/datasets/datasnaek/youtube-new) - Undirected graphical modeling.
 35. [Stock Market Dataset](https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data) - Chain models and variable elimination.
 
@@ -80,27 +80,27 @@
 ## 📌 Reinforcement Learning (Introductory)
 
 36. [Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) - Simulate reward-based learning with Q-learning.
-37. [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings) - Strategy optimization from reward simulation.
-38. [NBA Player Movement](https://www.kaggle.com/datasets/ehallmar/nba-player-movement) - Environment modeling for RL.
+37. [Video Game Sales and Ratings](https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings) – This dataset combines global sales data with critic and user ratings, offering an excellent source for reward-based simulation or strategy modeling.  
+38. [NBA Player Shooting Motions](https://www.kaggle.com/datasets/paultimothymooney/nba-player-shooting-motions) – Contains detailed 3D trajectory tracking data from NBA players; great for modeling sequential environments or movement-based reinforcement learning setups.  
 39. [AI Football Events Dataset](https://www.kaggle.com/datasets/secareanualin/football-events) - Event-based policy learning.
-40. [Self-Driving Car Dataset](https://www.kaggle.com/datasets/chebotinaa/starter-self-driving-car-dataset) - Reinforcement learning for steering prediction.
+40. [Self-Driving Car on Indian Roads](https://www.kaggle.com/datasets/ananduthaman/self-driving-car-on-indian-roads) – Includes frame-by-frame sensor data—such as steering angle, acceleration, gear changes—ideal for training RL policies in driving-like environments.
 
 ---
 
 ## 📌 Explainable AI (XAI)
 
 41. [SHAP on Lending Data](https://www.kaggle.com/code/dansbecker/shap-values) - Feature importance with SHAP.
-42. [LIME on Text Models](https://www.kaggle.com/code/ryanholbrook/black-box-models) - Explain sentiment models with LIME.
-43. [Credit Scoring Dataset](https://www.kaggle.com/datasets/yasserh/credit-scoring-model) - Build and interpret credit risk models.
-44. [Heart Attack Analysis](https://www.kaggle.com/datasets/fedesoriano/heart-attack-analysis-prediction-dataset) - Explain predictions using LIME/SHAP.
+42. [Explainable AI on an NLP LSTM with LIME](https://www.kaggle.com/code/teesoong/explainable-ai-on-a-nlp-lstm-model-with-lime) – A notebook demonstrating how to apply **LIME** to interpret predictions from a text model (LSTM), ideal for understanding nuanced feature effects.  
+43. [Default of Credit Card Clients Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset) – Financial dataset with client credit histories and default labels, perfect for building credit risk classifiers and interpreting them via **SHAP or LIME**.  
+44. [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset) – Clinical dataset suited for binary classification of heart attacks; explanations using **LIME/SHAP** are straightforward and insightful.
 45. [Wine Quality Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) - XAI on regression model output.
 
 ---
 
 ## 📌 Application-Oriented Topics
 
-46. [Streaming Twitter Election Data](https://www.kaggle.com/datasets/gpreda/all-us-election-2020-tweets) - Real-time NLP streaming classification.
-47. [Retail Transaction Dataset](https://www.kaggle.com/datasets/srinivasansekarm/supermarket-sales) - POS sales stream for prediction models.
+46. [US Election 2020 Tweets](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets) – A collection of ~1.72 million tweets from October 15 to November 8, 2020, capturing real-time political discourse during the U.S. election. Excellent for streaming NLP tasks or topic evolution modeling.  
+47. [Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) – Transactional sales data from a Myanmar-based supermarket chain, including product details, quantity, and gross income—ideal for building streaming prediction models.  
 48. [Bank Fraud Detection (PaySim)](https://www.kaggle.com/datasets/ealaxi/paysim1) - Real-time fraud detection model.
 49. [Smartphone Activity Recognition](https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones) - Streaming sensor-based classification.
-50. [Online Shoppers Intention](https://www.kaggle.com/datasets/whenamancodes/online-shoppers-intention) - Predict purchase intention using online clickstream data.
+50. [Online Shoppers Purchasing Intention Dataset](https://www.kaggle.com/datasets/henrysue/online-shoppers-intention) – Contains 12,330 user sessions with Google Analytics features; predicts whether a user will make a purchase. Perfect for clickstream-based prediction and streaming analysis.  
